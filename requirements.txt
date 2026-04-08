@@ -3,3 +3,5 @@ pandas
 numpy
 matplotlib
 xbbg
+jinja2
+openpyxl
